@@ -15,4 +15,4 @@ The `struct2html` Go package provides developers with tools to convert Go struct
 To install `struct2html`, use the following `go get` command:
 
 ```sh
-go get path/to/your/packages/struct2html
+go get github.com/audi70r/go-struct2html/struct2html
